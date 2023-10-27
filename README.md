@@ -1,7 +1,5 @@
 # Interactive Classroom Application with PyQt5 and RootServer
 
-![Interactive Classroom](screenshots/screenshot.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -18,8 +16,6 @@
 ## Introduction
 
 The Interactive Classroom Application is a modern, user-friendly tool designed to facilitate engaging and interactive learning experiences for both teachers and students. This application is built using PyQt5 for the frontend and RootServer for backend operations, offering a robust platform for conducting classes, managing resources, and assessing student progress.
-
-![Teacher Dashboard](screenshots/teacher_dashboard.png)
 
 ## Features
 
