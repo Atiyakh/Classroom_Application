@@ -4,14 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Teacher's Guide](#teachers-guide)
-  - [Student's Guide](#students-guide)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
+- [Prerequisites](#prerequisites)
 
 ## Introduction
 
